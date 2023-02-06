@@ -148,7 +148,7 @@ this command show the information such as , `commit hash` , `author name` , the 
 - see the privious commit history along with branch they were committed on.
 
 ``` 
-   git rm --graph --decorate  
+   git log --graph --decorate  
 ```
 
 use `--oneline` option to sort the  information.

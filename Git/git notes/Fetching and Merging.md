@@ -32,6 +32,8 @@ see:->https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/
 
 # Fork
 
+### A fork creates a completely independent copy of Git repository.
+
 A fork is a copy of a repository that you manage. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
 
 - After using GitHub by yourself for a while, you may find yourself wanting to contribute to someone else’s project. Or maybe you’d like to use someone’s project as the starting point for your own. This process is known as forking.

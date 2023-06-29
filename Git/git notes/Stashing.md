@@ -44,3 +44,8 @@ Note:-> After  stash pop the data will copy stash to working Directory not copy 
 
 
 ![image](https://user-images.githubusercontent.com/98619865/158058911-2f3c9519-e223-4d48-b2b6-58f8f3866e98.png)
+
+- NOTE Let suppose  we have stash changes for the particular branch than we created the new branch we can apply the changes in the newly created branch by
+     git stash apply
+     then you can opt to delete the stash by
+     git stash drop

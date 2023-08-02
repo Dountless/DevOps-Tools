@@ -51,3 +51,16 @@ Lets say a new developer joins the project and want to add new story(file). we d
     - with a no-fast forward merge git creates a new
 
 ![image](https://user-images.githubusercontent.com/98619865/158058501-3afdbfd2-55d0-45a4-b619-ec1c9b92f03c.png)
+
+
+### Working with multiple branch at the same time. 
+there can be case where we want to work with multiple branch at the same time. for that we can use the worktree which allows us to access the different branch of the same application at the same time. 
+ git worktree add [<options>] <path> [<commit-ish>]
+ git worktree list [<options>]
+ git worktree lock [<options>] <path>
+ git worktree move <worktree> <new-path>
+ git worktree prune [<options>]
+ git worktree remove [<options>] <worktree>
+ git worktree repair [<path>...]
+ git worktree unlock <path>
+
